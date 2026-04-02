@@ -1,6 +1,13 @@
+# 📘 DCR Document Management - Manual Testing Project
+
+This repository contains structured manual test cases for a **Document Control & Review (DCR) system** covering end-to-end workflow.
+
+---
+
+## 📁 Project Structure
+
+```
 DCR-Document-Management/
-│
-├── README.md
 │
 ├── 01_Initiator/
 │   ├── DCR_Track_27_154.xlsx
@@ -40,3 +47,50 @@ DCR-Document-Management/
 ├── 09_Document_Print/
 │   ├── 82_113_Print Tool.xlsx
 │   ├── View My Favourite 68_96.xlsx
+```
+
+---
+
+## 🔄 Workflow
+
+Initiator
+↓
+DCR Reviewer
+↓
+DCR Controller
+↓
+Document Author
+↓
+Document Reviewer
+↓
+Document Approver
+↓
+Document Controller
+↓
+Document Awareness
+↓
+Document Print
+
+---
+
+## 🧪 Test Case Coverage
+
+* Functional Testing
+* Workflow Testing
+* Role-Based Testing
+* Document Lifecycle Validation
+
+---
+
+## 🛠 Tools Used
+
+* Microsoft Excel
+* Jira (Bug Tracking)
+* Zoho Projects
+
+---
+
+## 👨‍💻 Author
+
+**Sanket Thakare**
+QA Engineer
